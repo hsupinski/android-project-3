@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#7ae0a8</color>
+    <color name="complementary">#e07ab2</color>
+    <color name="analogous_1">#7fe07a</color>
+    <color name="analogous_2">#7ae0db</color>
+    <color name="triadic_1">#7ab2e0</color>
+    <color name="triadic_2">#a87ae0</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Night mode colors -->
+    <color name="night_primary">#4b8e5f</color>
+    <color name="night_complementary">#c05b8e</color>
+    <color name="night_analogous_1">#4b995b</color>
+    <color name="night_analogous_2">#4b8e9b</color>
+    <color name="night_triadic_1">#4b8ec0</color>
+    <color name="night_triadic_2">#745b8e</color>
+    <color name="night_white">#333333</color>
+</resources>

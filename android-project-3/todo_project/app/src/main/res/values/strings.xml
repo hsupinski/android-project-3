@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TODO Project</string>
+    <string name="task_name_hint">Tu wpisz nazwę zadania</string>
+    <string name="task_name_label">Podaj nazwę zadania</string>
+    <string name="task_details_label">Więcej szczegółów</string>
+    <string name="task_done_label">Zrobione</string>
+    <string name="task_add_new">Nowe Zadanie</string>
+    <string name="show_subtitle">Pokaż podtytuł</string>
+    <string name="hide_subtitle">Ukryj podtytuł</string>
+    <string name="subtitle_format">%d zadania</string>
+</resources>
